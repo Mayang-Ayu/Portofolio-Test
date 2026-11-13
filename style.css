@@ -48,6 +48,7 @@ box-sizing: border-box;
   content: "";
   position: absolute;
   bottom: 0;
+  left: 0;
   width: 0%;
   height: 2px;
   background-color: #ffd700;
@@ -58,5 +59,16 @@ box-sizing: border-box;
   width: 100%
 }
 
-.konten-tengah
+.heading-home {
+  margin: auto;
+  text-align: center;
+  color: black;
+  font-family: Tahoma;
+}
+
+.heading-home h1 {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+  
   
